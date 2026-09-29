@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 *.tmp
+
+# Dados pessoais de perfil / análises (não versionar)
+analise-perfil-*.md
