@@ -4,5 +4,8 @@ __pycache__/
 .venv/
 *.tmp
 
+# dados pessoais do LinkedIn (voice, perfil, plano, log)
+linkedin/
+
 # Dados pessoais de perfil / análises (não versionar)
 analise-perfil-*.md
